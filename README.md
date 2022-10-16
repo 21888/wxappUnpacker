@@ -42,5 +42,4 @@ TIP
 │       ├── app.json
 ```
 
-# 公众号
-![image](/geek_road.jpg)
+
